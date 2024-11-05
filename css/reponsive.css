@@ -1,0 +1,489 @@
+        @media all and (max-width:767px) {
+            .container-fluid {
+                padding: 0px;
+            }
+            h2 {
+                font-family: Freestyle Script;
+                color: rgb(228, 48, 159);
+                font-size: 30px;
+            }
+            body {
+                background-color: rgba(0, 241, 120, 0.247);
+            }
+            p {
+                font-size: 20px;
+                color: rgb(252, 93, 93);
+                font-family: VNI-Zap;
+            }
+            a {
+                font-size: 20px;
+                color: rgb(212, 22, 22);
+                font-family: Mistral;
+            }
+            time {
+                font-family: VNI-Coronet;
+                font-size: 20px;
+                color: rgb(131, 4, 4);
+            }
+            .banner {
+                position: relative;
+            }
+            .border {
+                background-color: rgba(161, 67, 146, 0.705);
+                top: 70%;
+                width: 100%;
+                position: absolute;
+            }
+            h1 {
+                text-align: center;
+                font-family: 'segoe script';
+                font-size: 20px;
+                color: rgb(216, 213, 9);
+            }
+            footer {
+                text-align: left;
+                font-family: Ravie;
+                font-size: 20px;
+                color: rgb(221, 48, 221);
+            }
+            strong {
+                color: red;
+            }
+            h3 {
+                font-family: Freestyle Script;
+                color: rgb(171, 48, 228);
+                font-size: 30px;
+            }
+            nav {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: rgba(0, 0, 0, 0.267);
+                text-align: center;
+            }
+            .menu-2 {
+                font-size: 20px;
+                font-family: Microsoft PhagsPa;
+                color: rgb(58, 25, 90);
+            }
+            .make-1 {
+                font-size: 15px;
+                font-family: Segoe Print;
+            }
+            .menu-3::first-letter {
+                font-weight: bolder;
+                font-family: VNI-Zap;
+                font-size: 15px;
+                color: rgb(95, 0, 95);
+            }
+            .menu-3 {
+                font-family: Segoe Print;
+                font-size: 15px;
+                color: rgb(201, 52, 139);
+            }
+            .menu-4 {
+                font-size: 15px;
+                font-family: Brush Script MT;
+            }
+            .Order {
+                color: red;
+                font-size: 20px;
+            }
+            input[type=text] {
+                width: 100%;
+                color: chocolate;
+                padding: 10px;
+                border: 50px;
+            }
+            select {
+                font-size: 50px;
+                width: 100%;
+                font-family: 'segoe script';
+                color: rgb(155, 38, 73);
+                border: 50px;
+            }
+            option {
+                font-size: 20px;
+                text-align: center;
+                font-family: 'segoe script';
+                color: rgb(155, 38, 73);
+            }
+            input[type=date] {
+                font-size: 20px;
+                width: 50%;
+                padding: 10px;
+                color: chocolate;
+                border: 50px;
+            }
+            input[type=email] {
+                font-family: Palace Script MT;
+                font-size: 50px;
+                color: chocolate;
+                border: 50px;
+            }
+            label {
+                width: 300px;
+                display: inline-block;
+                text-align: right;
+                font-family: Palace Script MT;
+                font-size: 60px;
+                color: rgb(163, 88, 34);
+            }
+            input[type=submit] {
+                font-family: Palace Script MT;
+                font-size: 50px;
+                padding: 10px;
+                color: rgb(0, 0, 0);
+                box-sizing: border-box;
+                border: 50px;
+                background-color: red;
+            }
+            textarea {
+                width: 50%;
+                color: chocolate;
+                border: 50px;
+                padding: 10px;
+            }
+            label.deliver {
+                padding-top: 100px;
+                vertical-align: top;
+            }
+            hr {
+                border: 1px solid chocolate;
+            }
+            #myform label {
+                text-align: left;
+            }
+        }
+        
+        @media only screen and (min-width:768px) and (max-width:991px) {
+            .container-fluid {
+                padding: 0px;
+            }
+            h2 {
+                font-family: Freestyle Script;
+                color: rgb(228, 48, 159);
+                font-size: 70px;
+            }
+            body {
+                background-color: rgba(164, 97, 209, 0.247);
+            }
+            p {
+                font-size: 30px;
+                color: rgb(252, 93, 93);
+                font-family: VNI-Zap;
+            }
+            a {
+                font-size: 30px;
+                color: rgb(212, 22, 22);
+                font-family: Mistral;
+            }
+            time {
+                font-family: VNI-Coronet;
+                font-size: 45px;
+                color: rgb(131, 4, 4);
+            }
+            .banner {
+                position: relative;
+            }
+            .border {
+                background-color: rgba(255, 0, 212, 0.705);
+                position: absolute;
+                top: 70%;
+                width: 100%;
+            }
+            h1 {
+                text-align: center;
+                font-family: 'segoe script';
+                font-size: 70px;
+                color: rgb(216, 213, 9);
+                position: relative;
+            }
+            footer {
+                text-align: left;
+                font-family: Ravie;
+                font-size: 20px;
+                color: rgb(221, 48, 221);
+            }
+            strong {
+                color: red;
+            }
+            h3 {
+                font-family: Freestyle Script;
+                color: rgb(171, 48, 228);
+                font-size: 60px;
+            }
+            nav {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                overflow: hidden;
+                background-color: rgba(43, 38, 38, 0.192);
+                ;
+                text-align: center;
+            }
+            .menu-2 {
+                font-size: 20px;
+                font-family: Microsoft PhagsPa;
+                color: rgb(58, 25, 90);
+            }
+            u {
+                font-family: VNI-Briquet;
+                color: rgb(131, 4, 21);
+                font-size: 30px;
+            }
+            .make-1 {
+                font-size: 40px;
+                font-family: Segoe Print;
+            }
+            .menu-3::first-letter {
+                font-weight: bolder;
+                font-family: VNI-Zap;
+                font-size: 40px;
+                color: rgb(95, 0, 95);
+            }
+            .menu-3 {
+                font-family: Segoe Print;
+                font-size: 25px;
+                color: rgb(201, 52, 139);
+            }
+            .menu-4 {
+                font-size: 35px;
+                font-family: Brush Script MT;
+            }
+            .Order {
+                color: red;
+                font-size: 20px;
+            }
+            input[type=text] {
+                width: 100%;
+                color: chocolate;
+                padding: 10px;
+                border: 50px;
+            }
+            select {
+                font-size: 50px;
+                width: 100%;
+                font-family: 'segoe script';
+                color: rgb(155, 38, 73);
+                border: 50px;
+            }
+            option {
+                font-size: 30px;
+                text-align: center;
+                font-family: 'segoe script';
+                color: rgb(155, 38, 73);
+            }
+            input[type=date] {
+                font-size: 20px;
+                width: 50%;
+                padding: 10px;
+                color: chocolate;
+                border: 50px;
+            }
+            input[type=email] {
+                font-family: Palace Script MT;
+                font-size: 50px;
+                border-radius: 5px 5px 5px 5px;
+                color: chocolate;
+                border: 50px;
+            }
+            label {
+                width: 300px;
+                display: inline-block;
+                text-align: right;
+                font-family: Palace Script MT;
+                font-size: 60px;
+                color: rgb(163, 88, 34);
+            }
+            input[type=submit] {
+                font-family: Palace Script MT;
+                font-size: 50px;
+                padding: 10px;
+                color: rgb(0, 0, 0);
+                box-sizing: border-box;
+                border: 50px;
+                background-color: red;
+            }
+            textarea {
+                width: 30%;
+                color: chocolate;
+                border: 50px;
+                padding: 10px;
+            }
+            label.deliver {
+                padding-top: 100px;
+                vertical-align: top;
+            }
+            hr {
+                border: 1px solid chocolate;
+            }
+            #myform label {
+                text-align: left;
+            }
+        }
+        
+        @media all and (min-width:992px) {
+            .container-fluid {
+                padding: 0px;
+            }
+            h2 {
+                font-family: Freestyle Script;
+                color: rgb(228, 48, 159);
+                font-size: 70px;
+            }
+            body {
+                background-color: rgba(91, 104, 179, 0.705);
+            }
+            p {
+                font-size: 30px;
+                color: rgb(252, 93, 93);
+                font-family: VNI-Zap;
+            }
+            a {
+                font-size: 30px;
+                color: rgb(212, 22, 22);
+                font-family: Mistral;
+            }
+            time {
+                font-family: VNI-Coronet;
+                font-size: 45px;
+                color: rgb(131, 4, 4);
+            }
+            .banner {
+                position: relative;
+            }
+            .border {
+                background-color: rgba(255, 0, 212, 0.705);
+                position: absolute;
+                top: 70%;
+                width: 100%;
+            }
+            h1 {
+                text-align: center;
+                font-family: 'segoe script';
+                font-size: 70px;
+                color: rgb(216, 213, 9);
+            }
+            footer {
+                text-align: left;
+                font-family: Ravie;
+                font-size: 20px;
+                color: rgb(221, 48, 221);
+            }
+            strong {
+                color: red;
+            }
+            h3 {
+                font-family: Freestyle Script;
+                color: rgb(171, 48, 228);
+                font-size: 60px;
+            }
+            nav {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+                background-color: rgba(43, 38, 38, 0.192);
+                text-align: center;
+            }
+            .menu-2 {
+                font-size: 20px;
+                font-family: Microsoft PhagsPa;
+                color: rgb(58, 25, 90);
+            }
+            u {
+                font-family: VNI-Briquet;
+                color: rgb(131, 4, 21);
+                font-size: 30px;
+            }
+            .make-1 {
+                font-size: 40px;
+                font-family: Segoe Print;
+            }
+            .menu-3::first-letter {
+                font-weight: bolder;
+                font-family: VNI-Zap;
+                font-size: 40px;
+                color: rgb(95, 0, 95);
+            }
+            .menu-3 {
+                font-family: Segoe Print;
+                font-size: 25px;
+                color: rgb(201, 52, 139);
+            }
+            .menu-4 {
+                font-size: 35px;
+                font-family: Brush Script MT;
+            }
+            .Order {
+                color: red;
+                font-size: 20px;
+            }
+            input[type=text] {
+                width: 50%;
+                color: chocolate;
+                padding: 10px;
+                border: 50px;
+            }
+            select {
+                width: 50%;
+                font-family: 'segoe script';
+                color: rgb(155, 38, 73);
+                border: 50px;
+            }
+            option {
+                font-size: 20px;
+                text-align: center;
+                font-family: 'segoe script';
+                color: rgb(155, 38, 73);
+            }
+            input[type=date] {
+                font-size: 20px;
+                width: 50%;
+                padding: 10px;
+                color: chocolate;
+                border: 50px;
+            }
+            input[type=email] {
+                font-family: Palace Script MT;
+                font-size: 50px;
+                color: chocolate;
+                border: 50px;
+                width: 50%;
+                padding: 10px;
+            }
+            label {
+                width: 300px;
+                display: inline-block;
+                text-align: right;
+                font-family: Palace Script MT;
+                font-size: 60px;
+                color: rgb(163, 88, 34);
+            }
+            input[type=submit] {
+                font-family: Palace Script MT;
+                font-size: 50px;
+                padding: 10px;
+                color: rgb(0, 0, 0);
+                box-sizing: border-box;
+                border: 50px;
+                background-color: red;
+            }
+            textarea {
+                width: 50%;
+                color: chocolate;
+                border: 50px;
+                padding: 10px;
+            }
+            label.deliver {
+                padding-top: 100px;
+                vertical-align: top;
+            }
+            hr {
+                border: 1px solid chocolate;
+            }
+            #myform label {
+                text-align: left;
+            }
+        }
